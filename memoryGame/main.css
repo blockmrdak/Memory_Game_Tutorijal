@@ -7,7 +7,7 @@ html,body {
 	min-height: 100vh;
 }
 .container {
-	width: 400px;
+	width: 300px;
 	height: 400px;
 	border: 2px solid #eee;
 	margin: 70px auto;
